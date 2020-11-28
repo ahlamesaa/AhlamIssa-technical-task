@@ -16,7 +16,3 @@ The following guides illustrate how to use some features concretely:
 * [Serving Web Content with Spring MVC](https://spring.io/guides/gs/serving-web-content/)
 * [Building REST services with Spring](https://spring.io/guides/tutorials/bookmarks/)
 
-THIS project uses java 11
-mysql 8
-spring boot
- the name of the data base is luminus please create this database 
